@@ -1,0 +1,19 @@
+{
+  "name": "openpost",
+  "version": "1.0.0",
+  "description": "This OpenPost is for the ITS MCA students to put their Blogs.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Dil Bhardwaj",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "body-parser": "^2.2.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}
